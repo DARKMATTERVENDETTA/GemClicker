@@ -7,7 +7,7 @@ I am making Gem Clicker as a learning exercise for HTMl, CSS and Javascript.
 ## Notes
 Lots of features are yet to be added (achievements, stats, etc).
 
-## [Gem Clicker can be played here.](https://rory660.github.io/GemClicker/clicker.html)
+## [Gem Clicker can be played here.](https://darkmattervendetta.github.io/GemClicker/clicker.html)
 
 ### Todo List
 * Achievements  
